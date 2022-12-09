@@ -1,4 +1,4 @@
-# practice
+# practice solutions
 Hey there! This repo contains solutions and remarks of questions solved on different platforms
 
 | Question number | Difficulty Mode | Solution | Remarks |
